@@ -15,5 +15,5 @@ print("publish node is running")
 
 while True:
     suhu=input("masukan nilai suhu : ")
-    client.publish(topic='dtsKelembapan',payload=suhu)
+    client.publish(topic='dtsSuhu',payload=suhu)
     time.sleep(10)
