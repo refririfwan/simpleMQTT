@@ -5,3 +5,6 @@ Buat koding untuk publisher dan subscriber untuk kasus berikut:
 - subscriber melakukan subscribe kepada 2 topik tersebut dan menampilkan hasilnya. - boleh menggunakan broker apa saja (free online, local, etc), nama topik bebas
 
 Using Broker : iot.eclipse.org
+
+Run Program Using Powershell : python [namafile/path] example : python pub.py or python user/documents/sub.py
+Note : Pastikan lokasi file atau path file sesuai dengan kondisi lingkungan perangkat yang digunakan.
